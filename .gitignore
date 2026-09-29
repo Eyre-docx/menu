@@ -1,0 +1,16 @@
+# Local PHP/runtime files
+cookies.txt
+login_response.txt
+
+# Local development configuration
+.env
+.env.*
+!.env.example
+
+# IDE and operating-system files
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
